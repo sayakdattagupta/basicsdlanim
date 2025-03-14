@@ -4,7 +4,8 @@
 #define WINDOW_WIDTH 800
 #define WINDOW_HEIGHT 600
 
-int main(int argc, char* argv[]) {
+int main() 
+{
 
     SDL_Window* window = SDL_CreateWindow("SDL2 Window", SDL_WINDOWPOS_CENTERED,SDL_WINDOWPOS_CENTERED,WINDOW_WIDTH,WINDOW_HEIGHT,SDL_WINDOW_SHOWN);
 
