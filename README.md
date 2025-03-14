@@ -1,2 +1,3 @@
 # basicsdlanim
-A simple animation of a moving rectangle in SDL
+A simple blue rectangle (for now) in C usinh SDL2 
+Initialises a winodw and draws a blue rectangle (0,0,255)
